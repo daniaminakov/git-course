@@ -1,3 +1,1 @@
-# Git and Github Course
-
-Crash course for Git
+# Git and Github crib
